@@ -1,0 +1,8 @@
+{
+  "name": "CleanIndia: Waste Management & Action Hub",
+  "description": "A comprehensive platform dedicated to transforming India's waste management landscape through mandatory training, community participation, and decentralised monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
